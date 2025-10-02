@@ -1,0 +1,36 @@
+
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-1234-567890abcdef",
+    "paper_id": "math_p1_nsc_2023_nov",
+    "question_number": "1.1.1",
+    "question_text": "Solve for x: (x - 6)(x + 2) = 0",
+    "solution_steps": [
+      "Set each factor equal to zero: x - 6 = 0 or x + 2 = 0",
+      "Solve for x in each equation: x = 6 or x = -2"
+    ],
+    "final_answer_concise": "x = 6 or x = -2",
+    "recommended_time_seconds": 180,
+    "marks": 2,
+    "topic": "Algebra",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "b2c3d4e5-f6a7-8901-2345-67890abcdef1",
+    "paper_id": "math_p1_nsc_2023_nov",
+    "question_number": "1.1.2",
+    "question_text": "Solve for x, correct to TWO decimal places: 2x^2 + 3x - 7 = 0",
+    "solution_steps": [
+      "This does not factorise easily, so we must use the quadratic formula: x = [-b ± sqrt(b^2 - 4ac)] / 2a",
+      "Substitute a=2, b=3, c=-7 into the formula: x = [-3 ± sqrt(3^2 - 4(2)(-7))] / 2(2)",
+      "Simplify under the square root: x = [-3 ± sqrt(9 + 56)] / 4",
+      "Continue simplifying: x = [-3 ± sqrt(65)] / 4",
+      "Calculate the two possible values for x: x ≈ 1.27 or x ≈ -2.77"
+    ],
+    "final_answer_concise": "x = 1.27 or x = -2.77",
+    "recommended_time_seconds": 300,
+    "marks": 4,
+    "topic": "Algebra",
+    "difficulty": "Medium"
+  }
+]
